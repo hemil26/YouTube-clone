@@ -1,0 +1,13 @@
+.youtube{
+    color: red;
+}
+.youtube-brand{
+    font-family:'Roboto';
+    font-size: 17px;
+}
+.microphone, .video,.ellipsis,.bell{
+    color: #606060;
+}
+.bars{
+    color: #606060;
+}
