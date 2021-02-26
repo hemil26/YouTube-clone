@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+This project is live and y'all can checkit out on [http://youtube_clone69.surge.sh/](http://youtube_clone69.surge.sh/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
